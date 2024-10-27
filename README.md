@@ -28,5 +28,5 @@ Follow these steps to install and set up the project on your local machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Forensic-Meta-Data.git
+   git clone https://github.com/osamaeid908/Forensic-Meta-Data
    cd Forensic-Meta-Data
